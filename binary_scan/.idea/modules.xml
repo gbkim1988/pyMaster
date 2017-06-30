@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../AIO/.idea/AIO.iml" filepath="$PROJECT_DIR$/../AIO/.idea/AIO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../NlysisBunch/.idea/NlysisBunch.iml" filepath="$PROJECT_DIR$/../NlysisBunch/.idea/NlysisBunch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/binary_scan.iml" filepath="$PROJECT_DIR$/.idea/binary_scan.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../frida_deployment/.idea/frida_deployment.iml" filepath="$PROJECT_DIR$/../frida_deployment/.idea/frida_deployment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pyDesignPattern/.idea/pyDesignPattern.iml" filepath="$PROJECT_DIR$/../pyDesignPattern/.idea/pyDesignPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pySyntax/.idea/pySyntax.iml" filepath="$PROJECT_DIR$/../pySyntax/.idea/pySyntax.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pyTwistedCert/.idea/pyTwistedCert.iml" filepath="$PROJECT_DIR$/../pyTwistedCert/.idea/pyTwistedCert.iml" />
+    </modules>
+  </component>
+</project>
